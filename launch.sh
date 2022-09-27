@@ -1,5 +1,3 @@
-#launch.sh which is stored in ./config/polybar
-
 #!/usr/bin/env sh
 
 #Terminate already running bar instances
