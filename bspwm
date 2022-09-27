@@ -1,2 +1,4 @@
+#ok so this is what i have in bspwm for polybar
+
 #polybar
 $HOME/.config/polybar/launch.sh &
